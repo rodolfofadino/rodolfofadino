@@ -15,4 +15,6 @@
     
     
 </div>
+ 
+ ![Snake animation](https://github.com/Srbentu/Srbentu/blob/output/github-contribution-grid-snake.svg)
 
