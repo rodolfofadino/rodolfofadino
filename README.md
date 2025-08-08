@@ -1,20 +1,41 @@
-## console.log('Hi!')
+# Rodolfo Fadino  
+**CTO | Tech Leader | Visionary Builder**  
 
- <div>
-  <a href="https://github.com/rodolfofadino">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rodolfofadino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfofadino&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Srbentu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Srbentu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Srbentu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Srbentu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Srbentu-Vue" height="30" width="100" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-      <img align="center" alt="Srbentu-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    
-    
-</div>
- 
- ![Snake animation](https://github.com/rodolfofadino/rodolfofadino/blob/output/github-contribution-grid-snake.svg)
+Diretor de Tecnologia da [Vitat](https://vitat.com.br), startup do grupo Raia Drogasil.  
++15 anos construindo soluções escaláveis e liderando times de alta performance em health tech, fitness e varejo.  
 
+---
+
+## 🚀 O que eu faço
+- Lidero times de desenvolvimento, arquitetura e produto, conectando estratégia de negócio à execução técnica.  
+- Crio soluções escaláveis com foco em **dados, inteligência artificial** e **integração de ecossistemas**.  
+- Navego entre tecnologia e negócio com fluência, mantendo governança, segurança e qualidade.  
+
+---
+
+## 🌟 Highlights
+- **4 anos** como CTO na Vitat — health tech líder em prevenção e gestão de saúde.  
+- **3 anos** como Head de Tecnologia na Tech.fit — tecnologia para fitness e bem-estar.  
+- Professor no **MBA da FIAP** em Arquitetura de Soluções e Liderança em Tecnologia.  
+- Experiência hands-on em **AWS, GCP, Java, Python, FastAPI, Node.js, MySQL, Postgres**.  
+
+---
+
+## 📌 Projetos em destaque
+- **Integração Vitat + Raia Drogasil** com data lake unificado e governança de dados.  
+- **Arquitetura de plataforma de planos de assinatura** com LLM e integração WhatsApp.  
+- **Infraestrutura de analytics em larga escala** usando Metabase e BigQuery.  
+
+---
+
+## 🌊 Curiosidades
+- Velejador e entusiasta de navegação costeira e oceânica.  
+- Já cruzei mares e código na mesma semana.  
+- Acredito que liderança é sobre criar condições para que pessoas façam seu melhor trabalho.  
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://linkedin.com/in/rodolfofadino)  
+- [Site pessoal](https://rodolfofadino.com.br)  
+- [GitHub](https://github.com/rodolfofadino)  
