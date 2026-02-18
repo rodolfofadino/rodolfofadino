@@ -1,5 +1,5 @@
 # Rodolfo Fadino  
-**CTO & Co-Founder @ ZTGrowth | AI Native Builder | Tech Leader**
+**CTO & Co-Founder @ ztgrowth | AI Native Builder | Tech Leader**
 
 I build AI-native platforms that connect data, conversations and commerce.
 
@@ -11,7 +11,7 @@ Currently CTO & Co-Founder at [ZTGrowth](https://ztgrowth.com.br), where we are 
 
 ## ⚡ What I'm building now
 
-At **ZTGrowth**, I'm leading the architecture and development of:
+At **ztgrowth**, I'm leading the architecture and development of:
 
 - AI-driven conversational commerce platforms
 - WhatsApp-native customer engagement systems
