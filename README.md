@@ -1,41 +1,72 @@
 # Rodolfo Fadino  
-**CTO | Tech Leader | Visionary Builder**  
+**CTO & Co-Founder @ ZTGrowth | AI Native Builder | Tech Leader**
 
-Diretor de Tecnologia da [Vitat](https://vitat.com.br), startup do grupo Raia Drogasil.  
-+15 anos construindo soluções escaláveis e liderando times de alta performance em health tech, fitness e varejo.  
+I build AI-native platforms that connect data, conversations and commerce.
 
----
+Currently CTO & Co-Founder at [ZTGrowth](https://ztgrowth.com.br), where we are redefining how brands grow using conversational AI, WhatsApp and real-time analytics.
 
-## 🚀 O que eu faço
-- Lidero times de desenvolvimento, arquitetura e produto, conectando estratégia de negócio à execução técnica.  
-- Crio soluções escaláveis com foco em **dados, inteligência artificial** e **integração de ecossistemas**.  
-- Navego entre tecnologia e negócio com fluência, mantendo governança, segurança e qualidade.  
+15+ years shipping scalable systems, leading engineering teams and building products used by millions.
 
 ---
 
-## 🌟 Highlights
-- **4 anos** como CTO na Vitat — health tech líder em prevenção e gestão de saúde.  
-- **3 anos** como Head de Tecnologia na Tech.fit — tecnologia para fitness e bem-estar.  
-- Professor no **MBA da FIAP** em Arquitetura de Soluções e Liderança em Tecnologia.  
-- Experiência hands-on em **AWS, GCP, Java, Python, FastAPI, Node.js, MySQL, Postgres**.  
+## ⚡ What I'm building now
+
+At **ZTGrowth**, I'm leading the architecture and development of:
+
+- AI-driven conversational commerce platforms
+- WhatsApp-native customer engagement systems
+- Real-time analytics and growth infrastructure
+- Multi-modal AI pipelines (text, image, video)
+
+Stack includes:
+
+`Python` `Django` `Postgres` `pgvector` `GCP` `Cloud Run` `Next.js` `LLMs` `Gemini` `OpenAI` `Shopify` `WhatsApp Cloud API`
 
 ---
 
-## 📌 Projetos em destaque
-- **Integração Vitat + Raia Drogasil** com data lake unificado e governança de dados.  
-- **Arquitetura de plataforma de planos de assinatura** com LLM e integração WhatsApp.  
-- **Infraestrutura de analytics em larga escala** usando Metabase e BigQuery.  
+## 🧠 Technical focus
+
+I work deeply across:
+
+- Distributed systems & cloud architecture
+- AI product engineering & LLM integration
+- High-scale backend systems
+- Data infrastructure & analytics
+- Progressive rollouts with observability
+- AI-native development workflows
 
 ---
 
-## 🌊 Curiosidades
-- Velejador e entusiasta de navegação costeira e oceânica.  
-- Já cruzei mares e código na mesma semana.  
-- Acredito que liderança é sobre criar condições para que pessoas façam seu melhor trabalho.  
+## 🚀 Previous experience
+
+- CTO at **Vitat (Raia Drogasil Group)** — scaled digital health platform to millions of users
+- Head of Technology at **Tech.fit**
+- Software Engineer at **Minha Vida**
+- MBA Professor at **FIAP**
 
 ---
 
-## 📫 Contato
-- [LinkedIn](https://linkedin.com/in/rodolfofadino)  
-- [Site pessoal](https://rodolfofadino.com.br)  
-- [GitHub](https://github.com/rodolfofadino)  
+## 🛠️ Selected projects
+
+- AI-native conversational commerce platform (ZTGrowth)
+- Large-scale WhatsApp automation infrastructure
+- Customer intelligence platform with vector search
+- Real-time analytics pipeline on Google Cloud
+
+---
+
+## 🌊 Beyond code
+
+Sailor.  
+Builder.  
+Systems thinker.
+
+I believe building companies is like sailing — you adjust constantly, but always keep your direction.
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/rodolfofadino  
+- Website: https://rodolfofadino.com.br  
+- GitHub: https://github.com/rodolfofadino
